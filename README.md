@@ -12,13 +12,20 @@ My journey working with computer has led me to develop a passion for cybersecuri
 ##SKILLS
 [Provide skills and associated projet. Make sure to hyperlink the project]  
 
-|skill                                                                           |  Associated Project     |
+[skill]                                                                             [Associated Project]
 |----------------------------------------------------------------------------------------------------------|
-|Drafting a professionl statement                                 <a href="https://www.coursera.org/learn/manage-security-risks/home/week/1
-|Conduction a security audit                                                     |
-|Analyzing network structure and security                                        |
-|Using Linux commands to manage fole permissions                                 |
-|Applying filters to SQL queries                                                 |
-|Identifying bulnerabilities for a small business                                |
+[Drafting a professionl statement ]  
+
+[Conduction a security audit] 
+
+[Analyzing network structure and security] 
+
+[Using Linux commands to manage fole permissions] 
+
+[Applying filters to SQL queries ]    
+
+[Identifying bulnerabilities for a small business]   
+
 [Documenting incidents with an incident bandler's journal]
+
 [Importing and parsing a text file in a security-related scenario]

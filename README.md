@@ -14,7 +14,10 @@ My journey working with computer has led me to develop a passion for cybersecuri
 [Provide skills and associated projet. Make sure to hyperlink the project]  
 
 [skill]                                                                             [Associated Project]
-|----------------------------------------------------------------------------------------------------------|
+|----------------------------------------------------------------------------------- —---------------------------|
+<a href= "https://www.coursera.org/learn/foundations-of-cybersecurity/home/week/1" 
+(current course) Explore the cybersecurity profession, including significant events that led to the development of the cybersecurity field and its continued importance to organizational operations. Learn about entry-level cybersecurity roles and responsibilities.
+
 [Drafting a professionl statement ]  
 
 [Conduction a security audit] 

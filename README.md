@@ -17,12 +17,28 @@ My journey working with computer has led me to develop a passion for cybersecuri
 |----------------------------------------------------------------------------------- —---------------------------|
 
 <a href= "https://www.coursera.org/learn/foundations-of-cybersecurity/home/week/1"
-
-- (current course) Explore the cybersecurity profession, including significant events that led to the development of the cybersecurity field and its continued importance to organizational operations. Learn about entry-level cybersecurity roles and responsibilities.
+— (current course) Explore the cybersecurity profession, including significant events that led to the development of the cybersecurity field and its continued importance to organizational operations. Learn about entry-level cybersecurity roles and responsibilities.
 
 <a href= "https://www.coursera.org/learn/manage-security-risks/home/week/1"
 — Identify how cybersecurity professionals use frameworks and controls to protect business operations, and explore common cybersecurity tools.
 
+<a href= "https://www.coursera.org/learn/networks-and-network-security/home/week/1"
+— Gain an understanding of network-level vulnerabilities and how to secure networks.
+
+<a href= "https://www.coursera.org/learn/linux-and-sql/home/week/1"
+— Explore foundational computing skills, including communicating with the Linux operating system through the command line and querying databases with SQL.
+
+<a href= "https://www.coursera.org/learn/assets-threats-and-vulnerabilities/home/week/1"
+ — Learn about the importance of security controls and developing a threat actor mindset to protect and defend an organization’s assets from various threats, risks, and vulnerabilities.
+
+<a href= "https://www.coursera.org/learn/detection-and-response/home/week/1"
+— Understand the incident response lifecycle and practice using tools to detect and respond to cybersecurity incidents.
+
+<a href= "https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python/home/week/1"
+— Explore the Python programming language and write code to automate cybersecurity tasks.
+
+<a href= "https://www.coursera.org/learn/prepare-for-cybersecurity-jobs/home/week/1"
+— Learn about incident classification, escalation, and ways to communicate with stakeholders. This course closes out the program with tips on how to engage with the cybersecurity community and prepare for your job search.
 
 [Drafting a professionl statement ]  
 

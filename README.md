@@ -15,8 +15,14 @@ My journey working with computer has led me to develop a passion for cybersecuri
 
 [skill]                                                                             [Associated Project]
 |----------------------------------------------------------------------------------- —---------------------------|
-<a href= "https://www.coursera.org/learn/foundations-of-cybersecurity/home/week/1" 
-(current course) Explore the cybersecurity profession, including significant events that led to the development of the cybersecurity field and its continued importance to organizational operations. Learn about entry-level cybersecurity roles and responsibilities.
+
+<a href= "https://www.coursera.org/learn/foundations-of-cybersecurity/home/week/1"
+
+- (current course) Explore the cybersecurity profession, including significant events that led to the development of the cybersecurity field and its continued importance to organizational operations. Learn about entry-level cybersecurity roles and responsibilities.
+
+<a href= "https://www.coursera.org/learn/manage-security-risks/home/week/1"
+— Identify how cybersecurity professionals use frameworks and controls to protect business operations, and explore common cybersecurity tools.
+
 
 [Drafting a professionl statement ]  
 

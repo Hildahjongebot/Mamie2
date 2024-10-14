@@ -4,17 +4,17 @@ Cybersecurity Certificate Program
 
 [Brief Introduction]
 
-I recently enroll in the coursera Certificate Cybersecurity program. I have a profound interest in technology and a dedication to solving complex problems. With the knowledge acquired from this program I will be an asset to any company that gives me the previlage to join their team.
+I recently enroll in the coursera Certificate Cybersecurity program. I have a profound interest in technology and a dedication to solving complex problems. With the knowledge that I am acquiring from this program I will be an asset to any company that gives me the previlage to join their team.
 
 [Objective]
 
-My journey working with computer in other stting has led me to develop a passion for cybersecurity, and I am mow eager to transition into this field, specifically aiming to join a Security operations center (SOC) as a Tier 1 Analyst.
+My journey working with computer in other setting has led me to develop a passion for cybersecurity, and I am mow eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst by the end of my program.
 
 ##SKILLS
 [Provide skills and associated projet. Make sure to hyperlink the project]  
 
 [skill]                                                                             [Associated Project]
-|----------------------------------------------------------------------------------- —---------------------------|
+|----------------------------------------------------------------------------------- —----------|
 [Drafting a professionl statement ]
 
 <a href= "https://www.coursera.org/learn/foundations-of-cybersecurity/home/week/1"

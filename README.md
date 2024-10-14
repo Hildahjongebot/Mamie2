@@ -70,6 +70,7 @@ My journey working with computer in other setting has led me to develop a passio
 -Network protocol analyzers: is a tool designed to capture and analyze data traffict within a network.
 
 
+https://d3c33hcgiwev3.cloudfront.net/eS99rFpCT06yXBgFbuV3oQ_26405c7e45f541198932c6dbc43096f1_Course-1-glossary.docx?Expires=1729036800&Signature=DXaxeDc-8GNOM4J4frLTomZStsFN4jpaV7PY-5RSnrbZlJpUvJBggSr0348B5ztafFFoE~NW5ROaI1u7a-mxNSDMsT3N37bWaOjT3BTWFRTHuvunulN~~3QQHp4enqJBofdziYVQ16-wL3MLujANvMZMG4Y5ant4XaVo1Hnp-Ho_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
 
 
 [Drafting a professionl statement ]  

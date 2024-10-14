@@ -65,9 +65,9 @@ The programing languages SQL and Python
 
 Linux: An open-source operating system
 
-Playbooks
+Playbooks: is a manual that provides details about any operational action.
 
-Network protocol analyzers
+Network protocol analyzers: is a tool designed to capture and analyze data traffict within a network.
 
 
 

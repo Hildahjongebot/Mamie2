@@ -55,7 +55,8 @@ My journey working with computer in other setting has led me to develop a passio
 <a href= "https://www.coursera.org/learn/prepare-for-cybersecurity-jobs/home/week/1"
 — Learn about incident classification, escalation, and ways to communicate with stakeholders. This course closes out the program with tips on how to engage with the cybersecurity community and prepare for your job search.
 
-TOOLS
+[TOOLS]
+
 Security information and event management (SIEM): An application that collects and analyzes log data to monitor critical activities in an organization
 
 SQL (Structured Query Language): A query language used to create, interact with, and request information from a database 

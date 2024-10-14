@@ -57,17 +57,17 @@ My journey working with computer in other setting has led me to develop a passio
 
 [TOOLS]
 
-Security information and event management (SIEM): An application that collects and analyzes log data to monitor critical activities in an organization
+-Security information and event management (SIEM): An application that collects and analyzes log data to monitor critical activities in an organization
 
-SQL (Structured Query Language): A query language used to create, interact with, and request information from a database 
+-SQL (Structured Query Language): A query language used to create, interact with, and request information from a database 
 
-The programing languages SQL and Python
+-The programing languages SQL and Python
 
-Linux: An open-source operating system
+-Linux: An open-source operating system
 
-Playbooks: is a manual that provides details about any operational action.
+-Playbooks: is a manual that provides details about any operational action.
 
-Network protocol analyzers: is a tool designed to capture and analyze data traffict within a network.
+-Network protocol analyzers: is a tool designed to capture and analyze data traffict within a network.
 
 
 
